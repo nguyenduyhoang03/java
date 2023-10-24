@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "name": "Hoang",
+  "age": 20,
+  "address": {
+    "street": "so 8 - Ton That Thuyet",
+    "City": "Ha Noi",
+    "code": 1000
+  },
+  "paymentMethod": [
+    "Paypal",
+    "MoMo",
+    "ZaloPay"
+  ],
+  "Project": [
+    {
+      "title": "coffee Shop",
+      "bubget": 1000
+    },
+    {
+      "title": "Spa Shop",
+      "budget": 5000
+    }
+  ]
+}

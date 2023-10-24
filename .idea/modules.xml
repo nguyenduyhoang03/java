@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaLearn/AccManager/AccManager.iml" filepath="$PROJECT_DIR$/JavaLearn/AccManager/AccManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLearn/JavaCore/JavaCore.iml" filepath="$PROJECT_DIR$/JavaLearn/JavaCore/JavaCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLearn/Java/JavaLearn.iml" filepath="$PROJECT_DIR$/JavaLearn/Java/JavaLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam/exam.iml" filepath="$PROJECT_DIR$/exam/exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slot4/src/slot4.iml" filepath="$PROJECT_DIR$/slot4/src/slot4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slot4/slot41.iml" filepath="$PROJECT_DIR$/slot4/slot41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slot5/slot5.iml" filepath="$PROJECT_DIR$/slot5/slot5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slot6/slot6.iml" filepath="$PROJECT_DIR$/slot6/slot6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slot7/slot7.iml" filepath="$PROJECT_DIR$/slot7/slot7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slot8/slot8.iml" filepath="$PROJECT_DIR$/slot8/slot8.iml" />
+    </modules>
+  </component>
+</project>
